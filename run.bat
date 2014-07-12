@@ -1,0 +1,1 @@
+java -jar bopomofo.jar test.txt > result.txt
